@@ -16,6 +16,7 @@ client_secret=
 password=
 username=
 user_agent=
+
 Here, user agent can be any name.
 
 Once you've got this in place, you're ready to go!
